@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Vampire Bat",
+  "base_artist": "グラス・アニマルズ",
+  "createdAt": "2026-02-11T14:07:43.951890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "vampire bat",
+      "artist": "mage tears",
+      "has_synced": false,
+      "path": "select/01_vampire_bat_mage_tears.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vampire Bat",
+      "artist": "Wesley Willis",
+      "has_synced": false,
+      "path": "select/02_Vampire_Bat_Wesley_Willis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vampire Bat",
+      "artist": "Wesley Willis",
+      "has_synced": false,
+      "path": "select/03_Vampire_Bat_Wesley_Willis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vampire Bat",
+      "artist": "Willis, Wesley",
+      "has_synced": false,
+      "path": "select/04_Vampire_Bat_Willis,_Wesley.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vampire Bat (Paused)",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/05_Vampire_Bat_(Paused)_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vampire Bat",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/06_Vampire_Bat_Glass_Animals.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vampire Bat",
+      "artist": "Glass Animals",
+      "has_synced": false,
+      "path": "select/pl_01_Vampire_Bat_Glass_Animals.txt"
+    }
+  ]
+}
